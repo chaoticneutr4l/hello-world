@@ -1,5 +1,5 @@
 title: APT News
-#logo: /assets/image/headshot.png
-description: Follow the White Rabbit!
+logo: /assets/img/headshot_circle.png
+#description: Track the Hacks!
 show_downloads: false
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
